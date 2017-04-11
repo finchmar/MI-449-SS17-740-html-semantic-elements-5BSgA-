@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+}
+li {
+  list-style: none;
+  display: inline-block;
+  text-indent: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
+}
+.top-menu nav {
+  margin-left: -50px;
+  border-top:2px solid #D19A61;
+  border-bottom:2px solid #D19A61;
+}
+figcaption {
+  font-style: italic;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+figure {
+  margin-top:20px;
+}
+aside {
+  font-style: italic;
+  border-width: thin;
+  border-style: solid;
+  border-radius: 20px;
+  margin:0 auto;
+  width: 400px;
+  background-color: lightgreen;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 40px;
+  text-decoration: underline;
+}
+article {
+  border-bottom:2px solid #D19A61;
+  margin: 0 auto;
+  width: 500px;
+}
+h2 {
+  text-decoration: underline;
+}
